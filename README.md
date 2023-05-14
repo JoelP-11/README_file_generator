@@ -1,3 +1,9 @@
-# Professional README Generator Starter Code
+# coo app
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+  ## Description
+
+  its cool
+
+  #{renderLicenseBadge(data.license)}
+
+
