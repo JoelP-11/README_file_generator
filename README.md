@@ -3,7 +3,7 @@
   
   ## Description
 
-  it is cool
+  it is a cool one
 
   ## Table Of Contents
 
@@ -49,5 +49,5 @@
 
   ## Questions
 
-  If you have any questions about the repo, open an issue or contact me directly at undefined. You can find more of my work at [undefined](https://github.com/undefined/).
+  If you have any questions about the repo, open an issue or contact me directly at jp421513@gmail.com. You can find more of my work at [JoelP-11](https://github.com/JoelP-11/).
 
